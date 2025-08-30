@@ -1,7 +1,10 @@
 **Red Team Pentester | Cyber Security Specialist | Web Application Security Enthusiast**
 
-Web uygulamalarında sızma testleri yapmayı ve Bug Bounty projelerinde aktif çalışmayı seviyorum.  
-Aynı zamanda drone ve telekomünikasyon altyapıları ile veritabanı güvenliği konularına özel bir ilgim var.  
+Elektrik & Elektronik Mühendisliği altyapısına sahip bir güvenlik araştırmacısıyım; drone, elektrikli araçlar, mikroçip mimarisi ve telekomünikasyon sistemleri konularındaki teknik bilgim, siber güvenlik çalışmalarımda analitik ve sistem odaklı bir yaklaşım kazanmamı sağlıyor.
+
+Siber güvenlik alanında özellikle web uygulamalarının sızma testleri ve Bug Bounty projeleri ile ilgileniyorum. Eğitim ve pratik deneyimlerimle temel seviyede Red Team operasyonları ve pentesting gerçekleştirebiliyorum; Kali Linux, BurpSuite, Metasploit, Wireshark ve SQLMap gibi araçları etkin şekilde kullanabiliyorum.
+
+Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri seviye Red Team operasyonlarında görev alarak şirketlerin web uygulamalarını test etmek ve güvenlik açıklarını tespit ederek organizasyonlarını korumak.
 
 ---
 
