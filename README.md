@@ -1,5 +1,3 @@
-# 👋 Merhaba, ben [Adın]
-
 **Red Team Pentester | Cyber Security Specialist | Web Application Security Enthusiast**
 
 Web uygulamalarında sızma testleri yapmayı ve Bug Bounty projelerinde aktif çalışmayı seviyorum.  
@@ -8,9 +6,9 @@ Aynı zamanda drone ve telekomünikasyon altyapıları ile veritabanı güvenli�
 ---
 
 ## 🏷️ Profesyonel Unvanlar
-- 🗡️ Red Team Pentester (Temel)  
-- 🛡️ Cyber Security Specialist (Temel)  
-- 💻 Web Application Pentester (Temel)  
+-  Red Team Pentester
+-  Cyber Security Specialist   
+-  Web Application Pentester  
 
 ---
 
