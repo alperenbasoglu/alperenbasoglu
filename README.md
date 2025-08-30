@@ -21,8 +21,8 @@ Eğitimler ve pratiklerle Web Sızma Testleri, Etik Hackerlık ve Red Team opera
 
 ## 🎓 Eğitimler / Courses
 
-- **Etik Hacker Olma Kursu** – Atıl Samancıoğlu (Udemy)  
-- **Web Sızma Testleri & Bug Bounty** – Atıl Samancıoğlu (Udemy)  
+- **Etik Hacker Olma Kursu** 
+- **Web Sızma Testleri & Bug Bounty**   
 - **Pratik lab çalışmaları**: BurpSuite, DVWA, Mutillidae, bWapp  
 
 ---
