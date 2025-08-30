@@ -1,37 +1,35 @@
-# 👋 Merhaba, ben Alperen
+# 👋 Merhaba, ben [Adın]  
 
-**Red Team & Pentester** yolunda ilerleyen bir siber güvenlik tutkunu.  
-Eğitimler ve pratiklerle Web Sızma Testleri, Etik Hackerlık ve Red Team operasyonları üzerine çalışıyorum.
+**Red Team & Pentester** yolunda ilerleyen bir siber güvenlik meraklısıyım.  
+Web Sızma Testleri, Bug Bounty ve Red Team araçları üzerinde pratik yapıyorum.  
 
 ---
 
-## 🛠️ Yetkinliklerim / Skills
+## 🏷️ Unvanlar / Titles
+- :crossed_swords: Red Team Pentester (Learning)  
+- :shield: Cyber Security Specialist (Novice)  
+- :computer: Web Application Pentester (Intermediate)  
 
-- **Current Focus:** Red Team, Web Application Pentesting, Bug Bounty  
-- **Cyber Security Specialist (Learning Path)**  
-- **Tools:**  
-  <img src="https://www.kali.org/images/kali-logo.svg" alt="Kali Linux" width="40"/>  
-  <img src="https://www.wireshark.org/assets/images/wireshark-icon.png" alt="Wireshark" width="40"/>  
-  <img src="https://www.metasploit.com/assets/images/metasploit-logo.png" alt="Metasploit" width="40"/>  
-  <img src="https://burp-suite.com/img/burp-logo.svg" alt="BurpSuite" width="40"/>  
-  <img src="https://www.sqlmap.org/images/sqlmap_logo.png" alt="SQLMap" width="40"/>  
-- **Programming & Scripting:** Python, Bash, JavaScript  
+---
+
+## 🛠️ Araçlar / Tools
+| Araç | Yetkinlik | Logo |
+|------|-----------|------|
+| Kali Linux | Başlangıç-Orta | ![Kali](https://upload.wikimedia.org/wikipedia/commons/3/33/Kali_Linux_Logo.svg) |
+| BurpSuite | Başlangıç-Orta | ![Burp](https://portswigger.net/burp/img/burp-logo.svg) |
+| Metasploit | Başlangıç | ![Metasploit](https://upload.wikimedia.org/wikipedia/commons/4/41/Metasploit_logo.png) |
+| Wireshark | Başlangıç | ![Wireshark](https://upload.wikimedia.org/wikipedia/commons/0/0b/Wireshark_3.0.0_Logo.svg) |
+| SQLMap | Başlangıç | ![SQLMap](https://upload.wikimedia.org/wikipedia/commons/7/73/SQLMap_logo.png) |
 
 ---
 
 ## 🎓 Eğitimler / Courses
-
-- **Etik Hacker Olma Kursu** 
-- **Web Sızma Testleri & Bug Bounty**   
-- **Pratik lab çalışmaları**: BurpSuite, DVWA, Mutillidae, bWapp  
+- ✅ Etik Hacker Olma Kursu – Atıl Samancıoğlu (Udemy)  
+- ✅ Web Sızma Testleri & Bug Bounty – Atıl Samancıoğlu (Udemy)  
 
 ---
 
 ## 🎯 Hedefler / Goals
-
+- OSCP / eCPPT sertifikalarına hazırlanmak  
 - Red Team operasyonlarında tecrübe kazanmak  
-- OSCP / eCPPT sertifikasyonlarına hazırlanmak  
-- Bug Bounty ile gerçek dünya deneyimi kazanmak  
-
----
-
+- Bug Bounty projelerinde deneyim kazanmak  
