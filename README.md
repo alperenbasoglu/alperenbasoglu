@@ -10,17 +10,15 @@ Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri s
 
 ## 🎓 Eğitimler
 - ✅ Etik Hacker Olma Kursu – Atıl Samancıoğlu (Udemy)  
-- ✅ Web Sızma Testleri & Bug Bounty – Atıl Samancıoğlu (Udemy)  
-
+- ✅ Web Sızma Testleri & Bug Bounty – Atıl Samancıoğlu (Udemy)
+- Devam %10 - Python 2026 : 100 Günlük Programlama Kampı - Atıl Samancıoğlu (Udemy) 
 ---
 
 ## 🎯 İlgi Alanları
-- Red Team operasyonları ve Web Pentesting  
 - Bug Bounty & Şirket Web Sitelerinin güvenlik testleri  
-- Drone ve Telekomünikasyon altyapılarının güvenliği  
-- Veritabanı güvenliği ve sızma testleri  
 - Siber güvenlik araştırmaları ve exploit geliştirme
-
+- Veritabanı güvenliği ve sızma testleri  
+- Red Team operasyonları ve Web Pentesting  
 ---
 
 ## 📈 Hedefler
