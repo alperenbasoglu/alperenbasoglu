@@ -16,7 +16,8 @@ Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri s
 
 ## 🎯 İlgi Alanları
 - Bug Bounty & Şirket Web Sitelerinin güvenlik testleri  
-- Siber güvenlik araştırmaları ve exploit geliştirme
+- Siber güvenlik araştırmaları
+- Exploit geliştirme ve korunma yöntemleri
 - Veritabanı güvenliği ve sızma testleri  
 - Red Team operasyonları ve Web Pentesting  
 ---
