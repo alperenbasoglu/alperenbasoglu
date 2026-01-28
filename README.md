@@ -1,28 +1,10 @@
-**Red Team Pentester | Cyber Security Specialist | Web Application Security Enthusiast**
+**Cyber Security Analyst | Web Application Security & Penetration Testing**
 
-Elektrik & Elektronik Mühendisliği altyapısına sahip bir güvenlik araştırmacısıyım; drone, elektrikli araçlar, mikroçip mimarisi ve telekomünikasyon sistemleri konularındaki teknik bilgim, siber güvenlik çalışmalarımda analitik ve sistem odaklı bir yaklaşım kazanmamı sağlıyor.
+Cybersecurity researcher with hands-on experience in web applications, embedded systems, IoT, and offensive security labs. Skilled in vulnerability research, exploit development, and Python automation. Actively exploring innovative security solutions beyond standard SOC/Pentest operations. Seeking roles where I can analyze complex systems, discover vulnerabilities, and contribute to advanced security strategies.
 
 Siber güvenlik alanında özellikle web uygulamalarının sızma testleri ve Bug Bounty projeleri ile ilgileniyorum. Eğitim ve pratik deneyimlerimle temel seviyede Red Team operasyonları ve pentesting gerçekleştirebiliyorum; Kali Linux, BurpSuite, Metasploit, Wireshark ve SQLMap gibi araçları etkin şekilde kullanabiliyorum.
 
 Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri seviye Red Team operasyonlarında görev alarak şirketlerin web uygulamalarını test etmek ve güvenlik açıklarını tespit ederek organizasyonlarını korumak.
-
----
-
-## 🏷️ Profesyonel Unvanlar
--  Red Team Pentester
--  Cyber Security Specialist   
--  Web Application Pentester  
-
----
-
-## 🛠️ Araçlar ve Yetkinlikler
-| Araç        | Yetkinlik       | Logo |
-|------------|----------------|------|
-| Kali Linux | Temel           | ![Kali](https://upload.wikimedia.org/wikipedia/commons/3/33/Kali_Linux_Logo.svg) |
-| BurpSuite | Temel           | ![Burp](https://portswigger.net/burp/img/burp-logo.svg) |
-| Metasploit | Temel          | ![Metasploit](https://upload.wikimedia.org/wikipedia/commons/4/41/Metasploit_logo.png) |
-| Wireshark | Temel           | ![Wireshark](https://upload.wikimedia.org/wikipedia/commons/0/0b/Wireshark_3.0.0_Logo.svg) |
-| SQLMap | Temel              | ![SQLMap](https://upload.wikimedia.org/wikipedia/commons/7/73/SQLMap_logo.png) |
 
 ---
 
@@ -42,7 +24,9 @@ Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri s
 ---
 
 ## 📈 Hedefler
-- OSCP / eCPPT sertifikalarına hazırlanmak  
-- Red Team operasyonlarında ileri seviye pratik kazanmak  
+- OSCP / eCPPT sertifikalarına hazırlanmak
+- Her hafta hayatımı tazeleyerek katkıda bulunmaya devam etmek
+- Kendi otonom araçlarımı yazıp paylaşımlarda bulunmak
+- Network alanında eş zamanlı olarak ilerlemek (TCP vs...)
 - Bug Bounty projelerinde deneyim ve gelir elde etmek  
-- Drone ve Telekom sistemleri üzerinde güvenlik araştırmaları yapmak  
+- Red Team operasyonlarında ileri seviye pratik kazanmak  
