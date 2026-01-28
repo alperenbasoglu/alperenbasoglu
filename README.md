@@ -2,7 +2,7 @@
 
 Cybersecurity researcher with hands-on experience in web applications, embedded systems, IoT, and offensive security labs. Skilled in vulnerability research, exploit development, and Python automation. Actively exploring innovative security solutions beyond standard SOC/Pentest operations. Seeking roles where I can analyze complex systems, discover vulnerabilities, and contribute to advanced security strategies.
 
-Siber güvenlik alanında özellikle web uygulamalarının sızma testleri ve Bug Bounty projeleri ile ilgileniyorum. Eğitim ve pratik deneyimlerimle temel seviyede Red Team operasyonları ve pentesting gerçekleştirebiliyorum; Kali Linux, BurpSuite, Metasploit, Wireshark ve SQLMap gibi araçları etkin şekilde kullanabiliyorum.
+Siber güvenlik alanında özellikle web uygulamalarının sızma testleri ve Bug Bounty projeleri ile ilgileniyorum. Eğitim ve pratik deneyimlerimle temel seviyede Red Team operasyonları ve pentesting gerçekleştirebiliyorum
 
 Hedefim OSCP / eCPPT gibi sertifikalarla yetkinliklerimi geliştirmek ve ileri seviye Red Team operasyonlarında görev alarak şirketlerin web uygulamalarını test etmek ve güvenlik açıklarını tespit ederek organizasyonlarını korumak.
 
